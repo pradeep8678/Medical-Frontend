@@ -1,0 +1,10 @@
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem; }
+
+.container{
+position: absolute;
+height: auto;
+bottom: 50px;
+width: 100px;}
